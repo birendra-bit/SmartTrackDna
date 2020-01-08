@@ -1,0 +1,9 @@
+.vs/
+SmartTrackDna.sln
+/SmartTrackDna/SmartTrackDna/bin
+/SmartTrackDna/SmartTrackDna/obj
+/SmartTrackDna/SmartTrackDna/Dependancies
+/SmartTrackDna/SmartTrackDna.Android/bin
+/SmartTrackDna/SmartTrackDna.Android/obj
+/SmartTrackDna/SmartTrackDna.iOS/bin
+/SmartTrackDna/SmartTrackDna.iOS/obj
